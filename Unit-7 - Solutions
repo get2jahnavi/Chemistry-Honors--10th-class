@@ -3,7 +3,18 @@ Solute: The substance that is being dissolved (usually present in a smaller amou
 Solvent: The substance doing the dissolving (usually present in a larger amount). Water is the most common solvent and is often called the "universal solvent."
 
 Solution: The uniform, homogenous mixture formed when the solute is completely dissolved in the solvent.
+Solute + Solvent = Solution
+Real-World Example
+If you mix a spoonful of sugar into a glass of water until it completely disappears:
 
-Molarity is a way to measure the concentration of a solution.
-It tells you how many particles of solute are packed into a specific volume of liquid.
-Formula M =moles of solute{liters of solution}}$$
+Solute: Sugar
+
+Solvent: Water
+
+Solution: Sugar water
+M = {moles of solute}}\{liters of solution}
+m ={moles of solute}\{kilograms of solvent}
+Chemists prefer molality when working across extreme temperature ranges (like calculating freezing point depression or boiling point elevation).
+The reaction rate measures how fast a chemical reaction progresses. It quantifies how quickly the starting reactants disappear or how quickly the final products accumulate over a specific window of time.
+A stripped-down, highly focused chemical equation that completely removes the spectator ions. It only shows the specific ions that are actively breaking or forming chemical bonds.
+Ions that stay dissolved in the water and remain completely unchanged before, during, and after the reaction. They literally just "watch" the reaction happen without participating.
